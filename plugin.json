@@ -4,6 +4,10 @@
   "displayName": "Adspirer Search Ads",
   "version": "1.0.0",
   "description": "Run Google Ads and Microsoft Advertising: research keywords, cut wasted spend, manage bids and budgets. Campaigns start paused; changes need your approval.",
+  "category": [
+    "Productivity",
+    "Marketing"
+  ],
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Review my Google Ads search terms for the last 30 days and suggest negative keywords",
