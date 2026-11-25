@@ -1,0 +1,45 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "adspirer-search-ads",
+  "displayName": "Adspirer Search Ads",
+  "version": "1.0.0",
+  "description": "Run Google Ads and Microsoft Advertising: research keywords, cut wasted spend, manage bids and budgets. Campaigns start paused; changes need your approval.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Review my Google Ads search terms for the last 30 days and suggest negative keywords",
+    "Where am I losing impression share on Microsoft Advertising, budget or rank?",
+    "Research keywords for my business and propose a paused Search campaign plan"
+  ],
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com",
+    "url": "https://www.adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com",
+  "repository": "https://github.com/Adspirer/adspirer-search-ads-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "adspirer",
+    "advertising",
+    "ppc",
+    "paid search",
+    "sem",
+    "google ads",
+    "microsoft ads",
+    "bing ads",
+    "performance max",
+    "shopping ads",
+    "keyword research",
+    "negative keywords",
+    "search terms",
+    "quality score",
+    "responsive search ads",
+    "wasted spend",
+    "roas",
+    "cpa",
+    "conversion tracking",
+    "google analytics",
+    "search console",
+    "tag manager"
+  ]
+}
